@@ -5,8 +5,8 @@ I'm passionate about Programming and Development, and I love exploring new techn
 ## 🚀 Technologies and Tools
 
 - Programming Languages: C++, Java, Python, R Programming
-- Frameworks and Libraries: Python Flask
-- Tools and Platforms: Github, VSCode
+- Frameworks and Libraries: React, Python Flask
+- Tools and Platforms: Git, Github, VSCode
 
 ## 💼 Projects
 

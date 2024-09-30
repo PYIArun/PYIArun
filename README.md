@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hey I'm Arun Chandra
+
+## 💫 About Me:
 I’m all about coding, tech, and turning ideas into reality. If it involves programming, I’m probably into it!<br><br>🌱 I'm currently Learning<br>• React.js: Diving deeper into React for creating interactive UIs. Because who doesn’t love a good UI?<br>• DSA (Data Structures & Algorithms): Sharpening my problem-solving skills. It’s like gym for my coding brain!<br>• Backend with Flask: Building sturdy backends with Flask. It’s like cooking up a tech recipe for success!<br>• RESTful APIs: Crafting APIs that are smooth and user-friendly. Think of it as making tech magic.
 
 

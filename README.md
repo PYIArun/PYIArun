@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EACF7&width=435&lines=If+it+works+on+my+machine%2C+it+works+everywhere%2C+right%3F)](https://git.io/typing-svg)
-
 # Hey I'm Arun Chandra
 
 ## 💫 About Me:

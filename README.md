@@ -1,4 +1,4 @@
-# Hey I'm Arun Chandra
+# Hey, I'm Arun Chandra
 
 ![snake gif](https://github.com/PYIArun/PYIArun/blob/output/github-snake-dark.svg)
 
